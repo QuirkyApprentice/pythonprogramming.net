@@ -1,1 +1,1 @@
-In this repository I create my adaptations of pythonprogramming.net tutorial
+In this repository I create my adaptations of pythonprogramming.net tutorials
